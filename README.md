@@ -3,7 +3,7 @@
 A Power BI dashboard analyzing global retail performance for Tailwind Traders across five markets (UK, USA, Australia, France, UAE) — covering sales, profitability, product performance, and multi-currency revenue reporting.
 
 ![Sales Overview](https://github.com/SiddharthSurana11/tailwind-traders-power-bi-dashboard/blob/main/Sales%20Overview.png)
-![Profit Overview](screenshots/profit-overview.png)
+![Profit Overview](https://github.com/SiddharthSurana11/tailwind-traders-power-bi-dashboard/blob/main/Profit%20Overview.png)
 
 ## Business Problem
 
