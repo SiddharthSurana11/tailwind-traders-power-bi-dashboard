@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing global retail performance for Tailwind Traders across five markets (UK, USA, Australia, France, UAE) — covering sales, profitability, product performance, and multi-currency revenue reporting.
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](https://github.com/SiddharthSurana11/tailwind-traders-power-bi-dashboard/blob/main/Sales%20Overview.png)
 ![Profit Overview](screenshots/profit-overview.png)
 
 ## Business Problem
@@ -65,10 +65,9 @@ Power BI Desktop · Power Query · DAX · Python (currency data connector) · Ex
 ## Repo Structure
 
 ```
-├── Tailwind_Traders_Report.pbix     # Full Power BI report
-├── screenshots/
-│   ├── sales-overview.png
-│   └── profit-overview.png
+├── Tailwind_Traders_Report.pbix     # Full Power BI report 
+│── sales-overview.png
+│── profit-overview.png
 └── README.md
 ```
 
